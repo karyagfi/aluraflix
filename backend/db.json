@@ -1,0 +1,52 @@
+{
+  "videos": [
+    {
+      "title": "Tutorial de Astro",
+      "category": "frontend",
+      "image": "https://i.ytimg.com/vi/BWfpDEVl70A/maxresdefault.jpg",
+      "video": "https://youtu.be/Qe7MytTo7Vg?si=v6sW6M-5ejhHtRNm",
+      "descripcion": "video 1-actualizado",
+      "id": "a08e"
+    },
+    {
+      "title": "Tutorial de Laravel",
+      "category": "backend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vvUSWPfgohEdHuwUwORyJh2HUIlGgFIFig&s",
+      "video": "https://youtu.be/a-4923Uyu54?si=YXsbULnQJ9fdsu-g",
+      "descripcion": "Tutorial de Laravel",
+      "id": "a857"
+    },
+    {
+      "title": "Tutorial de soft skills",
+      "category": "inovacion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJICCsy5oLuQCsNJncti1wJ_-r6MCn_cFMw&s",
+      "video": "https://youtu.be/7dHDUQStVJc?si=g94wDIMN_AhG1Wy6",
+      "descripcion": "Tutorial de soft skills",
+      "id": "255c"
+    },
+    {
+      "id": "6e01",
+      "title": "Tutorial de React",
+      "category": "frontend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PvX_YaHnjn9HNzzf0MM32osx3PeSFrQl5A&s",
+      "video": "https://youtu.be/pFyAu4R684s?si=m6OLFgzMYShXML2k",
+      "descripcion": "Tutorial de React"
+    },
+    {
+      "id": "f940",
+      "title": "Tutorial de Django",
+      "category": "backend",
+      "image": "https://i.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpg",
+      "video": "https://youtu.be/B8OlRdYwNlA?si=7sdjeTkqlrsCDuKc",
+      "descripcion": "Tutorial de Django"
+    },
+    {
+      "id": "bc07",
+      "title": "Tutorial empresarial",
+      "category": "inovacion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EXvcOfFcltBNi6yYa5rEv1GbZ8qqYgMOPw&s",
+      "video": "https://youtu.be/uFlEw9nCGWg?si=OYQ2tERX9ajoyVW9",
+      "descripcion": "Tutorial empresarial"
+    }
+  ]
+}
